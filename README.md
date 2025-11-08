@@ -3,19 +3,19 @@ Create a Node js application
 
 1. Create a directory:
 
-```mkdir list-app```
+mkdir list-app
 
 2. Change to directory
 
-```cd list-app/```
+cd list-app/
 
 3. Run the below command to generate package.json, which is an npm configuration file. The settings information of the npm package is outlined in the package.json file.
 
-```npm init --yes```
+npm init --yes
 
 4. Next, let's install an npm package. In this article, we will install express and ejs. To do this, run the following command:
 
-```npm install express ejs```
+npm install express ejs
 
 5. Create app.js file and copy the below codes in it
 
@@ -35,7 +35,7 @@ app.listen(3000);```
 
 7. Now you have finished preparing the files. Let's try starting up the server.
 
-```node app.js```
+node app.js
 
 8. The application will served on localhost:3000 or http://<public_ip>:3000/
 
