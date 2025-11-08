@@ -3,7 +3,7 @@ Create a Node js application
 
 1. Create a directory:
 
-mkdir list-app
+```mkdir list-app```
 
 2. Change to directory
 
